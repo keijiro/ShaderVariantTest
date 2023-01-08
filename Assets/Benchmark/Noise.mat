@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sphere
+  m_Name: Noise
   m_Shader: {fileID: -6465566751694194690, guid: 4ddfb5c4c5a7cab40acbb7aa86825e9e, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
